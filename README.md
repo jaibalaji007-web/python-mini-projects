@@ -1,2 +1,15 @@
-# python-mini-projects
-Collection of beginner-friendly Python mini projects including basic ML and problem-solving programs.
+
+# Python Mini Projects 
+
+This repository contains simple Python projects for learning and practice.
+
+## 📌 Projects Included
+- Basic Calculator
+- Number Guessing Game
+- Simple ML Demo (coming soon)
+
+## 🛠 Tech Used
+- Python
+
+## 👨‍💻 Author
+Jai Balaji
